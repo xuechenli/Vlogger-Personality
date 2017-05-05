@@ -1,4 +1,4 @@
-# YouTube-Vlogger-s-Personality-Prediction
+# YouTube Vlogger's Personality Prediction
 Mar, 2016 – May, 2016
 
 • Analyzed the manual transcripts and behavioral features extracted from YouTube videos to
